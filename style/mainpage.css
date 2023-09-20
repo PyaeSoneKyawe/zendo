@@ -1,0 +1,91 @@
+.main-nav-continer{
+font-size: 20px;
+font-family: arial;
+font-weight: bold;
+margin: 0px;
+border: 2px;
+border-style: solid;
+border-color: rgba(128, 128, 128, 0.937);
+}
+.main-nav{
+    margin: 0px;
+    text-align: center;
+    
+}
+.nav-list{
+    list-style: none;
+    list-style-position: outside;
+}
+.nav-iteam{
+    display: inline-block;
+    
+    
+}
+.home-iteam{
+    margin-right: 20px;
+    text-decoration: none;
+    color: white;
+}
+.toplayer{
+    align-items: center;
+    height:500px;
+    background-image: url(/images/topdishes.jpg);
+    
+}
+.zendo-image{
+    margin: 4px;
+    padding-top: 450px;           
+}
+.zendo-logo{
+    width: 150px;
+    border: 1px;
+    border-color: goldenrod;
+    border-style: solid;
+    border-radius: 80px;
+    margin: 2px;
+}
+
+.boderstyle{
+    display: inline-block;
+    border-radius: 30px;
+    border-style: solid;
+    background-color: gray;
+    border-color: gray;
+}
+.sp-header{
+    text-align: center;
+    color: white;
+}
+.sp-section{
+    display: flex;
+    flex-direction: column;
+    margin-top: 120px;
+    align-items: center;
+    min-width: 400px;
+}
+.sp-continer{
+    margin-bottom: 40px;
+}
+.lunchbox{
+    height: 450px;
+    margin-right: 40px;
+}
+.shop-info{
+margin-top: 100px;
+}
+.location{
+    text-align: center;
+}
+.background{
+background-color: rgb(44, 46, 46);
+}
+.phone-no{
+    margin-top: 14px;
+    text-align: center;
+}
+p{
+    font-family:Arial;
+    font-size: 14px;
+    color: white;
+}
+
